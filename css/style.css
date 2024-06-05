@@ -10,7 +10,34 @@ header{
     margin: 38px 701px 38px 130px;
     background-color: #2a9d8f;
 }
-.{
-    
+.headerlogo{ width: 46px;
+    height: 46px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.header_nav{  
+    display: inline-block;
+    margin-left: 697px;
+    vertical-align: middle;
+
 }
 
+.header_li_link{
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.section2{
+    font-family: "Nerko One", cursive;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+.header_image{
+    
+    display: inline-block;
+    margin: 80px 130px 102px 120px;
+    image-resolution: 15px;
+}
